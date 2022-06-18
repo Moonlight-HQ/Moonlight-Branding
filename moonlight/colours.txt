@@ -1,0 +1,2 @@
+White: F4F4F4
+Black: 2A2A2A
