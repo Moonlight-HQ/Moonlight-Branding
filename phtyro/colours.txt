@@ -1,0 +1,18 @@
+White: F4F4F4
+Black: 2A2A2A
+Mono White 1: F4F4F4
+Mono White 2: E2E2E2
+Mono White 3: C3C3C3
+Mono White 4: ADADAD
+Mono Black 1: 2A2A2A
+Mono Black 2: 4A4A4A
+Mono Black 3: 6C6C6C
+Mono Black 4: 898989
+Colour White 1: 56CEC0
+Colour White 2: 42B8AA
+Colour White 3: 2F9E91
+Colour White 4: 1F8176
+Colour Black 1: 1F8176
+Colour Black 2: 2F9E91
+Colour Black 3: 42B8AA
+Colour Black 4: 56CEC0
